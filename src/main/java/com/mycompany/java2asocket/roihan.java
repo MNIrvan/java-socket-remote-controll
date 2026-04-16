@@ -28,7 +28,7 @@ public class roihan {
         String targetIP = scanner.nextLine();
         
         try {
-            Socket s = new Socket("10.8.0.44", 12345);
+            Socket s = new Socket("xx.x.x.xx", 12345);
             PrintWriter out = new PrintWriter(s.getOutputStream(), true);
             
             System.out.println("\nPilih perintah:");
