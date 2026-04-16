@@ -20,7 +20,7 @@ Proyek ini berisi dua program Java:
 
 ## Detail Koneksi
 - Port server: `12345`
-- IP tujuan client: `10.8.0.44` (nilai ini saat ini masih ditulis langsung di dalam kode client)
+- IP tujuan client: `xx.x.x.xx` (nilai ini saat ini masih ditulis langsung di dalam kode client)
 
 > Catatan: `roihan.java` meminta IP target, tetapi kode client saat ini masih menggunakan alamat `10.8.0.44`.
 
